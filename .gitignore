@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Çıktı görselleri (eğer otomatik üretiliyorsa)
+*.jpg
+*.png
+
+# Ortam değişkenleri (eğer eklersen ileride)
+.env
