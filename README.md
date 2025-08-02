@@ -41,13 +41,23 @@ npm run dev
 
 
 ## Özellikler
-- Siyah beyaz, sepya, bulanıklaştırma, karikatür efekti
-- Orijinal ve dönüştürülmüş görseller yan yana gösterilir
-- Dönüştürülmüş görseli indirme seçeneği mevcut
+- Siyah Beyaz (Grayscale)
+- Renk Canlandırma (Color Enhance)
+- Bulanıklaştırma (Blur)
+- Yansıtma (Mirror Flip)
+- Sepia (Eski Fotoğraf Efekti)
+- Karikatür Efekti (Cartoon)
+- Negatif (Invert Colors)
+- Parlaklık Artırma (Brightness Increase)
+- Dönüştürdüğünüz tüm resimleri indirebilirsiniz
 
 ## Ekran Görüntüleri
-![Ana Sayfa](images/homepage.png)
-![Dönüştürme](images/transform.png)
+
+![Ana Sayfa](images/ekran-goruntusu1.png)
+![Siyah Beyaz Efekti](images/ekran-goruntusu2.png)
+![Bulanıklaştırma Efekti](images/ekran-goruntusu3.png)
+![Cartoon Efekti](images/ekran-goruntusu4.png)
+
 
 ## Katkıda Bulunmak İster misin?
 Pull request’lere açığız!
