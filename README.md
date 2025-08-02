@@ -51,12 +51,20 @@ npm run dev
 - Parlaklık Artırma (Brightness Increase)
 - Dönüştürdüğünüz tüm resimleri indirebilirsiniz
 
-## Ekran Görüntüleri
+## Özellikler ve Ekran Görüntüleri
 
-![Ana Sayfa](images/ekran-goruntusu1.png)
+### Siyah Beyaz Efekti
 ![Siyah Beyaz Efekti](images/ekran-goruntusu2.png)
-![Bulanıklaştırma Efekti](images/ekran-goruntusu3.png)
+Bu efekt orijinal fotoğrafı siyah beyaz hale getirir.
+
+### Bulanıklaştırma Efekti
+![Bulanıklaştırma](images/ekran-goruntusu3.png)
+Fotoğrafın netliğini azaltarak hoş bir bulanık efekt oluşturur.
+
+### Cartoon (Karikatür) Efekti
 ![Cartoon Efekti](images/ekran-goruntusu4.png)
+Resmi çizgi film havasında, daha eğlenceli bir görünüme dönüştürür.
+
 
 
 ## Katkıda Bulunmak İster misin?
