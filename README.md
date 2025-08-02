@@ -1,7 +1,7 @@
 # AI Style Transfer App
 
 ## Proje Hakkında
-Kullanıcıların fotoğraflarına çeşitli efektler uygulayabildiği modern web uygulaması.
+Kullanıcıların fotoğraflarına çeşitli efektler uygulayabildiği ve efektler uygulanmış fotoğrafları kolay bir şekilde indirebildiği modern web uygulaması.
 
 ## Klasör Yapısı
 ai-style-transfer-app/
