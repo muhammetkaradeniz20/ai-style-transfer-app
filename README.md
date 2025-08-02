@@ -1,12 +1,56 @@
-# React + Vite
+# AI Style Transfer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Proje Hakkında
+Kullanıcıların fotoğraflarına çeşitli efektler uygulayabildiği modern web uygulaması.
 
-Currently, two official plugins are available:
+## Klasör Yapısı
+ai-style-transfer-app/
+│
+├── backend/
+│ ├── app.py
+│ ├── requirements.txt
+│ └── ...
+│
+├── frontend/
+│ ├── package.json
+│ ├── src/
+│ └── ...
+│
+├── README.md
+└── images/ (Ekran görüntüleri için)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Kurulum ve Çalıştırma
+
+### Backend
+- Python 3.13 ve pip kurulu olmalı.
+- Paketleri kurmak için terminalde:
+pip install -r backend/requirements.txt
+- Backend’i başlatmak için:
+python backend/app.py
+
+
+### Frontend
+- Node.js yüklü olmalı.
+- Terminalde frontend klasörüne geç:
+- Paketleri kur:
+npm install
+- Frontend’i çalıştır:
+npm run dev
+
+
+## Özellikler
+- Siyah beyaz, sepya, bulanıklaştırma, karikatür efekti
+- Orijinal ve dönüştürülmüş görseller yan yana gösterilir
+- Dönüştürülmüş görseli indirme seçeneği mevcut
+
+## Ekran Görüntüleri
+![Ana Sayfa](images/homepage.png)
+![Dönüştürme](images/transform.png)
+
+## Katkıda Bulunmak İster misin?
+Pull request’lere açığız!
+
+## Lisans
+MIT License
