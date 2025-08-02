@@ -4,7 +4,21 @@
 Kullanıcıların fotoğraflarına çeşitli efektler uygulayabildiği ve efektler uygulanmış fotoğrafları kolay bir şekilde indirebildiği modern web uygulaması.
 
 ## Klasör Yapısı
-<pre> ```plaintext ai-style-transfer-app/ │ ├── backend/ │ ├── app.py │ ├── requirements.txt │ └── ... │ ├── frontend/ │ ├── package.json │ ├── src/ │ └── ... │ ├── README.md └── images/ (Ekran görüntüleri için) ``` </pre>
+```plaintext
+ai-style-transfer-app/
+│
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── ...
+│
+├── frontend/
+│   ├── package.json
+│   ├── src/
+│   └── ...
+│
+├── README.md
+└── images/   (Ekran görüntüleri için)
 
 
 
